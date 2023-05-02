@@ -396,3 +396,25 @@ section {
 article {
   padding: 0px 120px;
 }
+
+footer {
+	margin: 0 auto;
+	padding: 0 auto;
+	background-color: #ebeae9;
+}
+
+#row {
+	display: flex;
+	flex-wrap: wrap;
+	padding-left: 10px;
+}
+
+ul {
+	list-style: none;
+}
+
+#column {
+	width: 50%;
+	padding: 0 15px;
+
+}
